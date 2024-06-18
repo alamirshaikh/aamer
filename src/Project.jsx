@@ -19,18 +19,18 @@ const Project =()=>{
 
 
         <Card 
-                image="https://ibb.co/0fJPVt3"
+                image="https://i.ibb.co/2ZcZYJZ/roadman.jpg"
                 title="Road Man"
                 description="Road man is a Cross section road custruction surway report software to generating the excel report and design."
             />
                  <Card 
-                image="https://ibb.co/ph4hrqh"
+                image="https://i.ibb.co/dQKnJgy/mr-retail.png"
                 title="Mr.Retail"
                 description="Mr.Retail is a Biling software for shops/and groswary store and electrical shop etc."
             />
             
             <Card 
-                image="https://ibb.co/qWjnF09"
+                image="https://i.ibb.co/0F2XVBZ/Tesract.jpg"
                 title="Tessrect"
                 description="testrect is a static web site for a educational site"
             />
