@@ -55,7 +55,7 @@ const Intro = () => {
                     </div>
                     <div className="col-md-4 col-12 col-sm-4 order-1 order-md-2 text-center">
                         <div className="profile">
-                            <img src="https://ibb.co/44D8Mwm" alt="profile" className="profile-i" />
+                            <img src="https://ibb.co/44D8Mwm/profile.png" alt="profile" className="profile-i" />
                         </div>
                     </div>
                 </div>
